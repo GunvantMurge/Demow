@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary_dark">#B71C1C</color>
+    <color name="color_text">#313131</color>
+    <color name="color_background">#fafafa</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_dark">#CBCBCC</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="color_primary">#ED3237</color>
+    <color name="card_item_color">#F4F4F4</color>
+    <color name="text_color_black">#000000</color>
+    <color name="gray_medium">#646464</color>
+    <color name="gray_light">#E6E6E6</color>
+    <color name="view_background_color">#FFEBEE</color>
+    <color name="text_color_light">#BDBDBD</color>
+    <color name="white_shade">#f5f5f5</color>
+    <color name="color_graylight">#a9a9a9</color>
+    <color name="color_gray_light">#e4e4e4</color>
+
+
+
+
+    <color name="orange_dark">#f17600</color>
+    <color name="gray_cream">#e6e6e6</color>
+    <color name="gray_light1">#7f7f7f</color>
+    <color name="red">#ff0606</color>#3ab35b
+    <color name="green">#669900</color>
+    <color name="greens">#00796a</color>
+    <color name="color_gray_white">#f3f3f3</color>
+
+    <color name="blue">#0099CC</color>
+    <color name="purple">#9933CC</color>
+    <color name="orange">#FF8800</color>
+
+</resources>
